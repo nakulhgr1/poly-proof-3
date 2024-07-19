@@ -2,7 +2,7 @@ pragma circom 2.0.0;
 
 /*This circuit template checks that c is the multiplication of a and b.*/  
 
-template Ishannode () 
+template ramannode () 
 {  
 
     //signal inputs
@@ -59,4 +59,4 @@ template OR() {
   out <== A + B - A * B;
 }
 
-component main = Ishannode();
+component main = ramannode();
