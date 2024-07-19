@@ -4,9 +4,7 @@ MyCircuit.circom
 
 Description
 
-# zardkat 🐱
 
-A [hardhat-circom]() template to generate zero-knowledge circuits, proofs, and solidity verifiers
 
 ## Quick Start
 Compile the MyCircuit() circuit and verify it against a smart contract verifier
